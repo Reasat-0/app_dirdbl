@@ -1,0 +1,29 @@
+"use client";
+
+import { configureStore } from "@reduxjs/toolkit";
+import { createWrapper } from "next-redux-wrapper";
+import authReducer from "@/app/Redux/features/authSlice";
+
+import storage from "redux-persist/lib/storage";
+import { persistReducer, persistStore } from "redux-persist";
+import thunk from "redux-thunk";
+
+const persistConfig = {
+  key: "root",
+  storage,
+};
+
+const persistedReducer = persistReducer(persistConfig, authReducer);
+
+export const store = configureStore({
+  reducer: {
+    persistedReducer,
+  },
+  middleware: [thunk],
+});
+
+export const persistor = persistStore(store);
+
+// const makeStore = () => store;
+
+// export const wrapper = createWrapper(makeStore);

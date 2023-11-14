@@ -1,0 +1,66 @@
+.text-xlarge {
+  &.text-xl {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  &.text-xxl {
+    font-size: 32px;
+    line-height: 40px;
+  }
+}
+
+.text-large {
+  &.text-xxlg {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  &.text-xlg {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  &.text-lg {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.text-medium {
+  &.text-md {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}
+
+.text-small {
+  line-height: 20px;
+  &.text-sm {
+    font-size: 13px;
+  }
+  &.text-xsm {
+    font-size: 12px;
+  }
+}
+
+.text-light {
+  font-weight: 300;
+  color: #736868 !important;
+}
+.text-regular {
+  font-weight: 400;
+}
+.text-semibold {
+  font-weight: 500;
+}
+.text-bold {
+  font-weight: 600;
+}
+.text-bolder {
+  font-weight: 700;
+}
+
+.text-primary-gradient {
+  background: $gradient;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

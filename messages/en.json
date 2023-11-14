@@ -1,0 +1,322 @@
+{
+  "Index": {
+    "onBoarding": {
+      "1stPage": {
+        "title": "Instant Savings Account",
+        "subTitle": "Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum is simply dummy text of the printing and typesetting"
+      },
+      "2ndPage": {
+        "title": "Easy Money Transfer",
+        "subTitle": "Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum is simply dummy text of the printing and typesetting"
+      },
+      "3rdPage": {
+        "title": "Bill Pay At Your Hand",
+        "subTitle": "Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum is simply dummy text of the printing and typesetting"
+      }
+    },
+    "auth": {
+      "welcomeMsg": "Welcome To Dhaka Bank Go",
+      "loginToContinue": "Login to Continue",
+
+      "dontHaveAccount": "Don’t have DBL Go Account?",
+      "signUpToDBL": "Sign Up to Dhaka Bank Go",
+      "applyForNewAccCard": "Apply for New Account/ Card",
+      "newCustomer": "New Customer",
+      "createNewAcc": "Create DBL GO Account",
+      "justNeedToVerify": "We just need to verify few details",
+      "alreadyHaveAcc": "Already have DBL Go log in details?",
+      "haveADBLAcc": "I have a DBL account",
+      "haveADBLCard": "I have a DBL credit / debit card",
+      "customer": "Customer",
+      "setProfile": "Set Your Profile",
+      "setProfileSubtitle": "Please fill up the following details",
+
+      "authFooterProduct": "Products",
+      "authFooterPartner": "Partners",
+      "authFooterBranchAtmLocations": "Branch & ATM Location",
+      "authFooterHowToRegister": "How to register",
+      "authContacts": "Contacts",
+      "authFaq": "FAQ"
+    },
+    "home": {
+      "pageTitle": "Home",
+      "quickLinks": "Quick Links",
+      "myAccounts": "My Accounts",
+      "myCards": "My Cards",
+      "discountOffer": "Discount Offers",
+      "thinkingOfGettingLoan": "Thinking Of Getting A Loan",
+      "badExperienceSoFar": "Bad Experience so Far?",
+      "availGreatDeals": "Avail all the great deals in town"
+    },
+    "myCards": {
+      "myCard": "My Card",
+      "pageTitle": "My Cards",
+      "allCards": "All Cards"
+    },
+    "partners": {
+      "pageTitle": "Partners",
+      "pageSubTitle": "Partners Type",
+      "discount_Partners": "Discount Partners",
+      "discount_PartnersSubTitle": "A line of text will be here",
+      "swipeit_Partners": "0% Swipeit Partners",
+      "swipeitPartnersSubtitle": "A line of text will be here",
+      "discountPartnerPageTitle": "Discount Partners",
+      "discountPartnerPageSubTitle": "Partners Type"
+    },
+    "common": {
+      "fieldPassword": "Password",
+      "fieldPhoneNumber": "Phone Number",
+      "fieldName": "Name",
+      "fieldNumber": "Number",
+      "fieldAccNumber": "Account Number",
+      "fieldCardNumber": "Card Number",
+      "fieldAccName": "Account Name",
+      "fieldUserName": "Username",
+      "fieldBankName": "Bank Name",
+      "fieldBranchName": "Branch Name",
+      "fieldLeave": "Number of Leaves",
+      "fieldDateFrom": "From Date",
+      "fieldDateTo": "To Date",
+      "fieldMeterNo": "Meter No",
+      "fieldReferenceName": "Ref Name",
+      "fieldComplaintSubject": "Complaint Subject",
+      "fieldDescription": "Description",
+
+      "placeholderAccNumber": "Your Account Number",
+      "placeholderNumber": "Enter Number",
+      "placeholderName": "Enter Name",
+      "placeholderCardNumber": "Your Card Number",
+      "placeholderAccName": "Your Account Name",
+      "placeholderUserNamePattern": "Set Username (A-Z, 0-9)",
+      "placeholderPasswordSet": "Set Password",
+      "placeholderBankName": "Select a Bank",
+      "placeholderBranchName": "Select a Branch",
+      "placeholderLeave": "Number of Leaves",
+      "placeholderDateFrom": "Please select a date",
+      "placeholderDateTo": "Please select a date",
+      "placeholderOrganizationType": "Enter organization name",
+      "placeholderSearch": "Search",
+      "placeholderPhoneNumber": "01XXXXXXXXXX",
+      "placeholderPassword": "***********",
+      "placeholderComplaintSubject": "Select Complaint Subject",
+      "placeholderDescription": "Write a Description",
+
+      "availableBranch": "Available Branch",
+      "amount": "Amount",
+      "unit": "৳",
+      "availableBalance": "Available Balance",
+      "addAsBeneficiary": "Add as Beneficiary for next use",
+      "addToFavourite": "Add to Favourite transfer",
+      "times": "times",
+      "logOut": "Log Out",
+
+      "Footer": "------------------ Footer AUTH ----------------",
+      "products": "Products",
+      "partners": "Partners",
+      "branch&AtmLocations": "Branch & ATM Locations",
+      "verification": "Verification",
+      "verificationSubTitle": "A 4 digit OTP code has been sent to your registered mobile number",
+      "dontGetCode": "Didn't get the code?",
+      "placeholderTo": "To account number",
+
+      "from": "Account ( From )",
+      "placeholderFrom": "Your account number",
+      "savingsAccount": "Savings Account",
+      "to": "Account ( To )",
+      "bankDetails": "Bank Details",
+      "date": "Date",
+      "transferSuccess": "You've successfully transfered money",
+
+      "selectAccountType": "Account Type",
+      "placeholderSelectAccountType": "Select Account Type",
+
+      "verificationTitle": "Verification",
+      "verificationSubtitle": "A 4 digit OTP code has been sent to your registered mobile number",
+      "dintGetCode": "Din't get the code?",
+      "account": "Account",
+
+      "requestChequeBook": "Request a Chequebook",
+      "last5transactions": "Last 5 transactions",
+      "requestEStatement": "Request E Statement",
+      "temporaryLock": "Temporary Lock",
+      "checkLimit": "Check Limit",
+      "reportLostOrStolen": "Report Lost Or Stolen",
+
+      "checkBoxYes": "Yes",
+      "checkBoxNo": "No",
+
+      "successTemplock": "Your card has been temporarily locked to avoid any kind of inconveniences. Please contact with the authority for further details."
+    },
+    "button": {
+      "forgetPassword": "Forget Password",
+      "btnLogin": "Log In",
+      "btnsignUp": "Sign Up",
+      "btnVerify": "Verify",
+      "btnResend": "Resend",
+      "btnRegister": "Register",
+      "btnContinue": "Continue",
+      "btnSkip": "Skip",
+      "btnFinish": "Finish",
+      "next": "Next",
+      "tapToHold": "Send",
+      "backToHome": "Go Back To Home",
+      "addBeneficiary": "Add Beneficiary",
+      "btnRequestChequebook": "Request Chequebook",
+      "continue": "Continue",
+      "report": "Report",
+      "viewAllBtn": "View All",
+      "proceedToPay": "Proceed To Pay",
+      "viewAllOffers": "View All Offers",
+      "checkElegibilityNow": "Check Eligibility Now",
+      "fileAComplaint": "File A Complaint",
+      "btnSubmit": "Submit",
+      "btnCancel": "Cancel",
+      "btnApply": "Apply"
+    },
+    "language": {
+      "en": "English",
+      "bn": "Bengali"
+    },
+    "offersPromos": {
+      "pageTitle": "Offers & Promos",
+      "promosTitle": "Promos",
+      "offersTitle": "Offers"
+    },
+    "newsEvents": {
+      "pageTitle": "News & Events"
+    },
+    "fundTransfer": {
+      "pageTitle": "Fund Transfers",
+      "transferFunds": "Transfer Funds",
+      "transferToMobileWallets": "Transfer to Mobile Wallets",
+      "transferToOwnAccount": "To Own Account",
+      "transferToOtherDBLAccount": "To other Dhaka Bank Account",
+      "eftnToOtherBankAccount": "EFTN To Other Bank",
+      "eftnToOtherBankAccountNSPB": "EFTN to Other Bank Via NPSB",
+      "oneTimeTransfer": "One Time Transfer",
+      "transferToBeneficiary": "Transfer To Beneficiary",
+      "selectOwnAccount": "Select Own Account"
+    },
+    "accounts": {
+      "pageTitle": "My Accounts"
+    },
+    "requestAChequebook": {
+      "pageTitle": "Request a Chequebook",
+      "pageSubTitle": "Enter the following details to get a chequebook of your need."
+    },
+    "requestEStatement": {
+      "pageTitle": "Request E-Statement",
+      "pageSubTitle": "Enter the following details to get a chequebook of your need."
+    },
+    "reportLostOrStolen": {
+      "pageTitle": "Report Lost Or Stolen",
+      "pageSubTitle": "Based on your report, the bank will restrict all the card operations until sorted.",
+      "doYouWantToReport": "Do You Want to Report it now?"
+    },
+    "temporaryLock": {
+      "pageTitle": "Temporary Lock",
+      "pageSubTitle": "If you lock your card, The bank will pause all the transactions. Contact with authority for further needs.",
+      "doYouWantToLock": "Do You Want to Lock it now?",
+      "verificationSuccess": "Your card has been temporarily locked to avoid any kind of inconveniences. Please contact with the authority for further details."
+    },
+    "checkLimit": {
+      "pageTitle": "Limit",
+      "dailyLimit": "Daily Limit",
+      "monthLimit": "Monthly Limit"
+    },
+    "beneficiary": {
+      "pageTitle": "Beneficiary Management",
+      "transferToAccounts": "Transfer Funds To Beneficiary Accounts",
+      "transferToMobileWallets": "Transfer to Mobile Wallets Beneficiary Accounts"
+    },
+    "billPayment": {
+      "pageTitle": "Bill Payment",
+      "upcomingPayment": "Upcoming Payment",
+      "allOrganizations": "All Organizations",
+      "allOrganizationsSubTitle": "This is demo text",
+      "billPaymentHistory": "Bill Payment History",
+      "billPaymentHistorySubTitle": "Bill Payment History"
+    },
+    "favouriteTransfers": {
+      "pageTitle": "Favourite Transfers"
+    },
+    "branchAtmLocations": {
+      "pageTitle": "Branch & Atm Location",
+      "branchesTitle": "Branches",
+      "branchSubTitle": "A Line of text will be here",
+      "atmsTitle": "ATM Booths",
+      "atmsSubTitle": "A Line of text will be here",
+      "branchesLocaiton": "Branches Locations",
+      "atmsLocation": "ATM Locations",
+      "locationOnMap": "Locations on Map"
+    },
+    "upcommingBills": {
+      "pageTitle": "Upcomming Bills"
+    },
+    "mblBanking": {
+      "bkash": "bKash",
+      "rocket": "Rocket",
+      "nagad": "Nagad",
+      "upay": "Upay"
+    },
+    "faq": {
+      "pageTitle": "FAQ"
+    },
+    "fileAComplaint": {
+      "pageTitle": "File A Complain",
+      "pageSubTitle": "A LIne of text",
+      "doYouReallyWantToFileComplaint": "Do  You really want to file a complaint?",
+      "complaintSuccess": "Sorry for your bitter experience. We're taking care of it as soon as possible."
+    },
+    "contact": {
+      "pageTitle": "Dhaka Bank Contacts",
+      "pageSubTitle": "Address Book"
+    },
+    "settings": {
+      "pageTitle": "Settings",
+      "allSettings": "All Settings",
+      "currentLanguage": "Current Language",
+      "touchId": "Touch ID",
+      "fingerPrint": "Fingerprint",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "languageOptions": "Language Options"
+    },
+    "products": {
+      "pageTitle": "Products",
+      "pageSubTitle": "New Customer"
+    },
+    "validations": {
+      "accountNumber": "Account number is required",
+      "amount": "Amount is required",
+      "branchName": "Please select a branch",
+      "bankName": "Please select a bank",
+      "transferTypeSelection": "Please select a transfer type",
+      "otpValidation": "Please enter your 4 digit code",
+
+      "name": "Please fill up name",
+      "accountType": "Please select your account type",
+      "number": "Number is required",
+
+      "errorFromDate": "From Date is required",
+      "errorToDate": "To Date is required",
+      "errorLeavesDate": "Leave is required",
+      "errorBranch": "Branch is required",
+
+      "checkBoxValidaiton": "Please select an option",
+      "general": "This field is required",
+
+      "phoneNumber": "Phone Number is required",
+      "password": "Password is required",
+
+      "userName": "User name is required",
+      "complaintSubject": "Please choose a subject"
+    },
+    "alert": {
+      "beneficiaryDeleteAlert": "Are you sure to delete this beneficiray"
+    },
+    "notFound": {
+      "nothingFound": "Nothing Found..."
+    }
+  }
+}

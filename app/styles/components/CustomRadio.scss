@@ -1,0 +1,12 @@
+.form-check-input {
+  &.theme-radio-input {
+    &:checked {
+      background-color: $primary-400;
+      border-color: $primary-400;
+    }
+    &:focus {
+      border: none;
+      box-shadow: none;
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "Index": {
+    "onBoarding": {
+      "1stPage": {
+        "title": "ইনস্ট্যান্ট সেভিং এর ডেটা",
+        "subTitle": "লোরেম ইপসাম ভুগিচুগি দফদফ ফদস্ফদফ আদ্দফদফ ফদফগ"
+      },
+      "2ndPage": {
+        "title": "সহজ উপায়ে টাকা ট্রান্সফার",
+        "subTitle": "লোরেম ইপসাম ভুগিচুগি দফদফ ফদস্ফদফ আদ্দফদফ ফদফগ"
+      },
+      "3rdPage": {
+        "title": "হাতের মুঠোয় বিল পেমেন্ট",
+        "subTitle": "লোরেম ইপসাম ভুগিচুগি দফদফ ফদস্ফদফ আদ্দফদফ ফদফগ"
+      }
+    },
+    "auth": {
+      "welcomeMsg": "ঢাকা ব্যাংক গো পোর্টালে আপনাকে স্বাগতম",
+      "loginToContinue": "Login to Continue",
+
+      "dontHaveAccount": "Don’t have DBL Go Account?",
+
+      "signUpToDBL": "Sign Up to Dhaka Bank Go",
+      "applyForNewAccCard": "Apply for New Account/ Card",
+      "newCustomer": "New Customer",
+      "createNewAcc": "Create DBL GO Account",
+      "justNeedToVerify": "We just need to verify few details",
+      "alreadyHaveAcc": "Already have DBL Go log in details?",
+      "haveADBLAcc": "I have a DBL account",
+      "haveADBLCard": "I have a DBL credit / debit card",
+      "customer": "Customer",
+      "setProfile": "Set Your Profile",
+      "setProfileSubtitle": "Please fill up the following details",
+
+      "authFooterProduct": "প্রোডাক্ট",
+      "authFooterPartner": "পার্টনারস",
+      "authFooterBranchAtmLocations": "ব্রাঞ্চ এবং এটিএম লোকেশন",
+      "authFooterHowToRegister": "রেজিষ্টার পদ্ধতি",
+      "authContacts": "কনটাক্ট",
+      "authFaq": "এফ.এ.কিউ"
+    },
+    "home": {
+      "pageTitle": "হোম",
+      "quickLinks": "কুইক লিংক",
+      "myAccounts": "আমার একাউন্ট",
+      "myCards": "আমার কার্ডসমূহ",
+      "discountOffer": "ডিসকাউন্ট অফার",
+      "thinkingOfGettingLoan": "লোনের কথা ভাবছেন??",
+      "badExperienceSoFar": "আজ অবধি বাজে অভিজ্ঞতা",
+      "availGreatDeals": "সকল ভালো ডিল দেখুন"
+    },
+    "myCards": {
+      "myCard": "আমার কার্ড",
+      "pageTitle": "কার্ড সমূহ",
+      "allCards": "সকল কার্ড"
+    },
+    "partners": {
+      "pageTitle": "পার্টনার",
+      "pageSubTitle": "পার্টনারের ধরন",
+      "discount_Partners": "ডিসকাউন্ট পার্টনার",
+      "discount_PartnersSubTitle": "A line of text will be here",
+      "swipeit_Partners": "০% সুইপেট পার্টনার",
+      "swipeit_PartnersSubTitle": "A line of text will be here",
+      "discountPartnerPageTitle": "ডিসকাউন্ট পার্টনার",
+      "discountPartnerPageSubTitle": "পার্টনারের ধরন"
+    },
+    "common": {
+      "fieldPassword": "Password",
+      "fieldPhoneNumber": "Phone Number",
+      "fieldName": "Name",
+      "fieldNumber": "Number",
+      "fieldAccNumber": "Account Number",
+      "fieldCardNumber": "Card Number",
+      "fieldAccName": "Account Name",
+      "fieldUserName": "Username",
+      "fieldBankName": "Bank Name",
+      "fieldBranchName": "Branch Name",
+      "fieldLeave": "Number of Leaves",
+      "fieldDateFrom": "From Date",
+      "fieldDateTo": "To Date",
+      "fieldComplaintSubject": "অভিযোগের বিষয়বস্তু",
+      "fieldDescription": "বর্ণনা",
+
+      "placeholderName": "Enter Your Name",
+      "placeholderNumber": "Enter Number",
+      "placeholderAccNumber": "Your Account Number",
+      "placeholderCardNumber": "কার্ড নাম্বার",
+      "placeholderAccName": "Your Account Name",
+      "placeholderUserNamePattern": "Set Username (A-Z, 0-9)",
+      "placeholderPasswordSet": "Set Password",
+      "placeholderDateFrom": "Please select a date",
+      "placeholderDateTo": "Please select a date",
+
+      "placeholderBankName": "Select a Bank",
+      "placeholderBranchName": "Select a Branch",
+      "placeholderOrganizationType": "প্রতিষ্ঠানের নাম সিলেক্ট করুন",
+      "placeholderSearch": "খুঁজুন",
+      "placeholderPhoneNumber": "01XXXXXXXXXX",
+      "placeholderPassword": "***********",
+      "placeholderComplaintSubject": "Select Complaint Subject",
+      "placeholderDescription": "Write a Description",
+
+      "availableBranch": "Available Branch",
+      "amount": "Amount",
+      "unit": "৳ ",
+      "availableBalance": "Available Balance",
+      "addAsBeneficiary": "Add as Beneficiary for next use",
+      "addToFavourite": "Add to Favourite transfer",
+      "times": "বার",
+
+      "Footer": "------------------ Footer AUTH ----------------",
+      "products": "Products",
+      "partners": "Partners",
+      "branch&AtmLocations": "Branch & ATM Locations",
+      "verification": "Verification",
+      "verificationSubTitle": "A 4 digit OTP code has been sent to your registered mobile number",
+      "dontGetCode": "Didn't get the code?",
+
+      "from": "Account ( From )",
+      "placeholderFrom": "Your account number",
+      "savingsAccount": "Savings Account",
+      "to": "Account Number ( To )",
+      "placeholderTo": "To account number",
+      "bankDetails": "Bank Details",
+      "date": "Date",
+      "transferSuccess": "You've successfully transfered money",
+
+      "selectAccountType": "Account Type",
+      "placeholderSelectAccountType": "Select Account Type",
+
+      "verificationTitle": "Verification",
+      "verificationSubtitle": "A 4 digit OTP code has been sent to your registered mobile number",
+      "dintGetCode": "Din't get code?",
+      "account": "Account",
+      "logOut": "লগ আউট করুন",
+      "requestChequeBook": "Request a Chequebook",
+      "last5transactions": "Last 5 transactions",
+      "requestEStatement": "Request E Statement",
+      "temporaryLock": "Temporary Lock",
+      "checkLimit": "লিমিট চেক করুন",
+      "reportLostOrStolen": "হারানো বা চুরি রিপোর্ট করুন",
+      "checkBoxYes": "হ্যা",
+      "checkBoxNo": "না",
+
+      "successTemplock": "Your card has been temporarily locked to avoid any kind of inconveniences. Please contact with the authority for further details."
+    },
+    "button": {
+      "forgetPassword": "Forget Password",
+      "btnLogin": "Log In",
+      "btnsignUp": "Sign Up",
+      "btnVerify": "Verify",
+      "btnResend": "Resend",
+      "btnRegister": "Register",
+      "btnContinue": "অগ্রসর হোন",
+      "btnSkip": "এড়িয়ে যান",
+      "btnFinish": "শেষ করুন",
+      "next": "পরবর্তী",
+      "tapToHold": "পাঠান",
+      "backToHome": "Go Back To Home",
+      "addBeneficiary": "Add Beneficiary",
+      "btnRequestChequebook": "Request Chequebook",
+      "continue": "Continue",
+      "report": "রিপোর্ট করুন",
+      "viewAllBtn": "সব দেখুন",
+      "proceedToPay": "পরিশোধ করুন",
+      "viewAllOffers": "সব অফার দেখুন",
+      "checkElegibilityNow": "এলিজিবিলিটি চেক করুন",
+      "fileAComplaint": "অভিযোগ করুন",
+      "btnSubmit": "সাবমিট করুন",
+      "btnCancel": "বাতিল করুন",
+      "btnApply": "আবেদন করুন"
+    },
+    "language": {
+      "en": "ইংরেজি",
+      "bn": "বাংলা"
+    },
+    "offersPromos": {
+      "pageTitle": "অফার এবং প্রোমোশন",
+      "promosTitle": "প্রোমোশন",
+      "offersTitle": "অফার"
+    },
+    "newsEvents": {
+      "pageTitle": "নিউজ এবং ইভেন্ট"
+    },
+    "fundTransfer": {
+      "pageTitle": "ফান্ড ট্রান্সফার",
+      "transferFunds": "ফান্ড ট্রান্সফার করুন",
+      "transferToMobileWallets": "মোবাইল ওয়ালেটে ট্রান্সফার করুন",
+      "transferToOwnAccount": "নিজের একাউন্টে",
+      "transferToOtherDBLAccount": "অন্য ব্যাংক একাউন্টে",
+      "eftnToOtherBankAccount": "EFTN ভিন্ন ব্যাংকে",
+      "eftnToOtherBankAccountNSPB": "EFTN ভিন্ন ব্যাংকে Via NPSB",
+      "oneTimeTransfer": "এককালীন ট্রান্সফার",
+      "transferToBeneficiary": "বেনেফিসারি ট্রান্সফার",
+      "selectOwnAccount": "একাউন্ট সিলেক্ট করুন"
+    },
+    "accounts": {
+      "pageTitle": "আমার একাউন্ট"
+    },
+    "requestAChequebook": {
+      "pageTitle": "Request a Chequebook",
+      "pageSubTitle": "Enter the following details to get a chequebook of your need."
+    },
+    "requestEStatement": {
+      "pageTitle": "Request E-Statement",
+      "pageSubTitle": "Enter the following details to get a chequebook of your need."
+    },
+    "reportLostOrStolen": {
+      "pageTitle": "Report Lost Or Stolen",
+      "pageSubTitle": "Based on your report, the bank will restrict all the card operations until sorted.",
+      "doYouWantToReport": "Do You Want to Report it now?"
+    },
+    "temporaryLock": {
+      "pageTitle": "Temporary Lock",
+      "pageSubTitle": "If you lock your card, The bank will pause all the transactions. Contact with authority for further needs.",
+      "doYouWantToLock": "Do You Want to Lock it now?",
+      "verificationSuccess": "কোনো অনাকাঙ্খিত ব্যাপার থেকে রক্ষা করতে আপনার কার্ডটি সাময়িকভাবে লক করা হলো"
+    },
+    "checkLimit": {
+      "pageTitle": "লিমিট",
+      "dailyLimit": "দৈনিক লিমিট",
+      "monthLimit": "মাসিক লিমিট"
+    },
+    "beneficiary": {
+      "pageTitle": "বেনেফিসারি ম্যানেজমেন্ট",
+      "transferToAccounts": "Transfer Funds Beneficiary Accounts",
+      "transferToMobileWallets": "Transfer to Mobile Wallets Beneficiary Accounts"
+    },
+    "billPayment": {
+      "pageTitle": "বিল পেমেন্ট",
+      "upcomingPayment": "Upcoming Payment",
+      "allOrganizations": "সকল প্রতিষ্ঠান",
+      "billPaymentHistory": "পেমেন্ট হিস্টরি",
+      "allOrganizationsSubTitle": "This is demo text",
+      "billPaymentHistorySubTitle": "Bill Payment History"
+    },
+    "favouriteTransfers": {
+      "pageTitle": "ফেভারিট ম্যানেজমেন্ট"
+    },
+    "branchAtmLocations": {
+      "pageTitle": "ব্রাঞ্চ এবং এ.টি.এম লোকেশন",
+      "branchesTitle": "Branches",
+      "branchSubTitle": "A Line of text will be here",
+      "atmsTitle": "ATM Booths",
+      "atmsSubTitle": "A Line of text will be here",
+      "branchesLocaiton": "Branches Locations",
+      "atmsLocation": "ATM Locations",
+      "locationOnMap": "Locations on Map"
+    },
+    "upcommingBills": {
+      "pageTitle": "আসন্ন বিল"
+    },
+    "mblBanking": {
+      "bkash": "বিকাশ",
+      "rocket": "রকেট",
+      "nagad": "নগদ",
+      "upay": "উপায়"
+    },
+    "faq": {
+      "pageTitle": "জিজ্ঞাসাবলী"
+    },
+    "fileAComplaint": {
+      "pageTitle": "অভিযোগ করুন",
+      "pageSubTitle": "A LIne of text",
+      "doYouReallyWantToFileComplaint": "আপনি কি নিশ্চিতভাবে অভিযোগ করতে চান?",
+      "complaintSuccess": "আপনার তিক্ত অভিগ্যতার জন্য আমরা দুঃখিত। বিষয়টি আমরা অতি শীঘ্রই সমাধান করছি।"
+    },
+    "contact": {
+      "pageTitle": "ঢাকা ব্যাংক যোগাযোগ",
+      "pageSubTitle": "Address Book"
+    },
+    "settings": {
+      "pageTitle": "সেটিংস",
+      "allSettings": "সকল সেটিংস",
+      "currentLanguage": "বর্তমান ভাষা",
+      "touchId": "টাচ আই ডি",
+      "fingerPrint": "Fingerprint",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "languageOptions": "ভাষা অপশন"
+    },
+    "products": {
+      "pageTitle": "প্রোডাক্ট",
+      "pageSubTitle": "প্রোডাক্ট সাবটাইটেল"
+    },
+    "validations": {
+      "accountNumber": "Account number is required",
+      "branchName": "Please select a branch",
+      "bankName": "Please select a bank",
+      "transferTypeSelection": "Please select a transfer type",
+      "otpValidation": "Please enter your 4 digit code",
+      "name": "Please fill up name",
+      "accountType": "Please select your account type",
+      "number": "Number is required",
+
+      "errorFromDate": "প্রয়োজনীয়",
+      "errorToDate": "প্রয়োজনীয়",
+      "errorLeavesDate": "প্রয়োজনীয়",
+      "errorBranch": "ব্রাঞ্চের নাম প্রয়োজনীয়",
+
+      "checkBoxValidaiton": "Please select an option",
+      "general": "This field is required",
+
+      "userName": "ইউজারনেম প্রোয়জনীয়",
+
+      "phoneNumber": "ফোন নাম্বার প্রোয়োজনীয়",
+      "password": "পাসওয়ার্ড প্রোয়োজনীয়",
+
+      "complaintSubject": "বিষয়বস্তু সিলেক্ট করুন"
+    },
+    "alert": {
+      "beneficiaryDeleteAlert": "Are you sure to delete this beneficiray"
+    },
+    "notFound": {
+      "nothingFound": "খুঁজে পাওয়া যায়নি..."
+    }
+  }
+}

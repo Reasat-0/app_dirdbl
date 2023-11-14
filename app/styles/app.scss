@@ -1,0 +1,80 @@
+@import "variables.scss";
+// @import "./components/Button.scss";
+// @import "./components/CustomRadio.scss";
+// @import "./components/CustomCheckbox.scss";
+// @import "./components/PrimaryCard.scss";
+// @import "./components/SimpleCard.scss";
+// @import "./components/BranchCard.scss";
+// @import "./components/CustomSlider.scss";
+// @import "./components/Typography.scss";
+// @import "./pages/page.scss";
+// @import "node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  background: $appBg;
+}
+a {
+  text-decoration: none !important;
+  color: $secondary-300;
+}
+a:hover {
+  color: $primary-400;
+}
+.next-link {
+  text-decoration: none;
+}
+p {
+  margin-bottom: 0;
+}
+
+.card-box-shadow {
+  box-shadow: $cardBoxShadow;
+}
+
+.bg-primary-gradient {
+  background: $gradient;
+}
+.bg-secondary {
+  background: $secondary-150 !important;
+}
+
+.icon-wrapper {
+  width: 24px;
+  height: 24px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.icon-wrapper-primary {
+  background: $gradient;
+}
+.icon-wrapper-secondary {
+  background: $secondary-150;
+}
+.next-link {
+  text-decoration: none;
+  color: unset;
+}
+
+.form-group {
+  margin-bottom: 0px !important;
+}
+
+.radio-card:has(input:checked) {
+  border: 1px solid $primary-400 !important;
+}
+
+// PRogress bar tap and hold
+.taphold-progress-bar {
+  margin: -20px -30px;
+  background-color: blue;
+  height: 5px;
+  position: absolute;
+  width: 0;
+  transition: width 0s;
+
+  &.start,
+  &.done {
+    width: 100%;
+    transition: width 3s;
+  }
+}

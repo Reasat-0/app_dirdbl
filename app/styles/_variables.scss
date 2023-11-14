@@ -1,0 +1,63 @@
+$white: #fff;
+
+$primary-50: #fbe9e9;
+$primary-100: #f7d2d4;
+$primary-150: #f2bcbe;
+$primary-200: #eea5a8;
+$primary-250: #e6797d;
+$primary-300: #dd4c51;
+$primary-400: #d51f26;
+$primary-500: #aa191e;
+$primary-600: #801317;
+$primary-700: #550c0f;
+$primary-800: #40090b;
+$primary-900: #150304;
+
+$secondary-50: #e8e6e6;
+$secondary-100: #d0cdcd;
+$secondary-150: #b9b3b4;
+$secondary-200: #a19a9b;
+$secondary-250: #736868;
+$secondary-300: #443536;
+$secondary-350: #150304;
+$secondary-400: #110203;
+$secondary-500: #0d0202;
+$secondary-600: #080102;
+$secondary-700: #060101;
+$secondary-800: #040101;
+$secondary-900: #020000;
+
+$gradient: linear-gradient(270deg, $primary-400 0%, #f55e36 100%);
+
+$cardBorder: #e8e6e6;
+$appBg: #fcfcfc;
+
+$cardBoxShadow: 0px 4px 8px -2px rgba(16, 24, 40, 0.1),
+  0px 2px 3px -2px rgba(16, 24, 40, 0.06);
+
+$black: #000;
+
+$theme-colors: (
+  "primary": $primary-400,
+  "secondary": $secondary-400,
+  "secondary-300": $secondary-300,
+  "white": $white,
+  "borderColor": $cardBorder,
+);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1250px,
+  xxl: 1440px,
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 900px,
+  xl: 1100px,
+  xxl: 1200px,
+);

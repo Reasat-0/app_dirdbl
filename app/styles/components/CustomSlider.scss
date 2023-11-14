@@ -1,0 +1,45 @@
+.general-slider {
+  .slick-slider {
+    .slick-arrow {
+      display: block;
+      background: $white;
+      width: 30px;
+      height: 30px;
+      top: 20%;
+      z-index: 99;
+      &:before {
+        color: #c9c1c1;
+        font-size: 28px;
+      }
+      &.slick-prev {
+        left: -8px;
+      }
+      &.slick-next {
+        right: -8px;
+      }
+    }
+  }
+  .slick-dots {
+    .slick-active {
+      button {
+        &:before {
+          color: $primary-400;
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+.offer-promo-slider {
+  .slick-arrow {
+    &.slick-prev {
+      right: 23px;
+      left: unset !important;
+      top: -45px;
+    }
+    &.slick-next {
+      top: -45px;
+    }
+  }
+}
